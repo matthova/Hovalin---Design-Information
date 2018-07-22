@@ -1,3 +1,8 @@
+# The Hovalin
+A 3D printable Acoustic Violin.
+
+This document goes over the details for design of a 4/4 
+
 ## Hovalin Variables
 
 | Variable Name         | Value   | Unit |
