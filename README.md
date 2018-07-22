@@ -1,10 +1,42 @@
 # The Hovalin
-A 3D printable Acoustic Violin.
+## A 3D printable Acoustic Violin.
 
-This document goes over the details for design of a 4/4 
+This document goes over the details for design of a 3D printable 4/4 violin.
 
-## Hovalin Variables
+[Design overview](#design-overview)  
+[3rd Party Hardware](#3rd-party-hardware)  
+[CAD structure](#cad-structure)  
+[Variables](#4\/4-violin-variables)  
+  
+## Design Overview  
+The Hovalin is designed to be printed on a standard desktop FDM / FFF 3D printer.
+The following assumptions are being made about the 3D printer :
+  - The 3D printer has a 0.4 mm nozzle  
+    - Most FFF 3D printers have a 0.4mm nozzle.
+    - The violin chamber's walls will be 1.5mm thick (almost 4 extrusions)  
+  - The 3D printer has a height of at least 360mm (Designing specifically for the CR-10) 
+    - The Hovalin's body will print upright and will have a height of 357mm  
 
+## 3rd Party Hardware
+Although the Hovalin is 3D printed, it isn't entirely made of printed parts. We'll need the following items:
+- [Carbon Fiber Rod](https://www.amazon.com/carbon-8mmx6mmx500mm-wrapped-glossy-finish/dp/B07DTB937Z/ref=sr_1_9?ie=UTF8&qid=1532236459&sr=8-9&keywords=500mm+8mm+carbon+fiber+rod)  
+  - 500mm length  
+  - 8mm outer diameter  
+- [4x guitar tuning pegs](http://www.amazon.com/gp/product/B009AQIZYS/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=B009AQIZYS&amp;linkCode=as2&amp;tag=hovalin-20&amp;linkId=RR43FGQCYG63T4VS)  
+- [Strings](http://www.amazon.com/gp/product/B0002Y6BJI/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=B0002Y6BJI&amp;linkCode=as2&amp;tag=hovalin-20&amp;linkId=RMBKSKN5ZX76LXDL)  
+
+## CAD structure  
+  - Printed Parts
+    - Chamber (Body)
+    - Neck
+  - Hardware
+    - Carbon Fiber Rod
+    - Tuners
+    - Strings
+    - (possibly) Bridge
+
+
+## 4/4 Violin Variables
 | Variable Name         | Value   | Unit |
 |-----------------------|---------|------|
 | violin_body_length    | 354     | mm   |
