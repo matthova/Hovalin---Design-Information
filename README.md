@@ -3,10 +3,10 @@
 
 This document goes over the details for design of a 3D printable 4/4 violin.
 
-[Design overview](#design-overview)  
-[3rd Party Hardware](#3rd-party-hardware)  
-[CAD structure](#cad-structure)  
-[Variables](#4\/4-violin-variables)  
+## [Design overview](#design-overview)  
+## [3rd Party Hardware](#3rd-party-hardware)  
+## [CAD structure](#cad-structure)  
+## [Variables](#4\/4-violin-variables)  
   
 ## Design Overview  
 The Hovalin is designed to be printed on a standard desktop FDM / FFF 3D printer.
