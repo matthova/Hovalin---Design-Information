@@ -3,7 +3,7 @@
 
 This document goes over the details for design of a 3D printable 4/4 violin.
 
-## [Design overview](##design-overview-1)  
+## [Design overview](#design-overview-1)  
 ## [3rd Party Hardware](#3rd-party-hardware-1)  
 ## [CAD structure](#cad-structure-1)  
 ## [Variables](#44-violin-variables)  
