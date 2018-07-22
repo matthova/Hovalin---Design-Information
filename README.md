@@ -29,6 +29,12 @@
 | nut_to_bridge         | 325     | mm   |
 | bridge_lift           | 14      | mm   |
 
-*1 = ( 2 * neck_top_width * thumb_to_thumb + neck_top_width * neck_bot_width ) / ( 4 * thumb_to_thumb + 4 * neck_bot_width - 2 * neck_top_width )  
+*1:  
+```
+( 2 * neck_top_width * thumb_to_thumb + neck_top_width * neck_bot_width ) / ( 4 * thumb_to_thumb + 4 * neck_bot_width - 2 * neck_top_width )
+```  
 
-*2 = neck_bot_width / 2  
+*2:  
+```
+neck_bot_width / 2
+```  
