@@ -36,7 +36,7 @@ Although the Hovalin is 3D printed, it isn't entirely made of printed parts. We'
     - (possibly) Bridge
 
 
-## 4/4 Violin Variables. 
+## 4/4 Violin Variables  
 
 | Variable Name         | Value   | Unit |
 |-----------------------|---------|------|
