@@ -3,10 +3,10 @@
 
 This document goes over the details for design of a 3D printable 4/4 violin.
 
-## [Design overview](#design-overview)  
-## [3rd Party Hardware](#3rd-party-hardware)  
-## [CAD structure](#cad-structure)  
-## [Variables](#4\/4-violin-variables)  
+## [Design overview](##design-overview-1)  
+## [3rd Party Hardware](#3rd-party-hardware-1)  
+## [CAD structure](#cad-structure-1)  
+## [Variables](#44-violin-variables)  
   
 ## Design Overview  
 The Hovalin is designed to be printed on a standard desktop FDM / FFF 3D printer.
@@ -36,7 +36,8 @@ Although the Hovalin is 3D printed, it isn't entirely made of printed parts. We'
     - (possibly) Bridge
 
 
-## 4/4 Violin Variables
+## 4/4 Violin Variables. 
+
 | Variable Name         | Value   | Unit |
 |-----------------------|---------|------|
 | violin_body_length    | 354     | mm   |
