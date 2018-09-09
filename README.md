@@ -46,11 +46,12 @@ Although the Hovalin is 3D printed, it isn't entirely made of printed parts. We'
 | chamber_rail_diameter | 2.5     | mm   |
 | nut_lift              | 4       | mm   |
 | nut_action            | 1       | mm   |
-| neck_bot_lift         | 16      | mm   |
+| neck_bot_lift         | 10      | mm   |
 | neck_bot_width        | 30      | mm   |
 | neck_bot_over_rad     | 4       | mm   |
 | neck_bot_under_rad    | 15      | mm   |
-| neck_top_sink         | 2       | mm   |
+| neck_bot_beef         | 2       | mm   |
+| neck_top_sink         | 5       | mm   |
 | neck_top_width        | 24      | mm   |
 | neck_top_over_rad     | 2       | mm   |
 | neck_top_under_rad    | 12      | mm   |
